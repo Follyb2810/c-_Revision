@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\bin\Debug\net8.0\revision.exe
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\bin\Debug\net8.0\revision.deps.json
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\bin\Debug\net8.0\revision.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\bin\Debug\net8.0\revision.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\bin\Debug\net8.0\revision.pdb
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\refint\revision.dll
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.pdb
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\revision.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\Endpoint\revision\obj\Debug\net8.0\ref\revision.dll
